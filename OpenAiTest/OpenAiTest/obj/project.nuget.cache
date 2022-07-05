@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "pVeCzgbBVaGYjTKaZ824syVzFF3eNuWyduOO9flfdMcz7zlTZvO6Y7XCftSaABEInd5xySDHmaUnwkT6NxXhEQ==",
+  "success": true,
+  "projectFilePath": "D:\\Source\\OpenAiTest\\OpenAiTest\\OpenAiTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mipma\\.nuget\\packages\\awssdk.core\\3.7.12.4\\awssdk.core.3.7.12.4.nupkg.sha512",
+    "C:\\Users\\mipma\\.nuget\\packages\\awssdk.polly\\3.7.6.1\\awssdk.polly.3.7.6.1.nupkg.sha512",
+    "C:\\Users\\mipma\\.nuget\\packages\\flurl\\3.0.6\\flurl.3.0.6.nupkg.sha512",
+    "C:\\Users\\mipma\\.nuget\\packages\\flurl.http\\3.2.4\\flurl.http.3.2.4.nupkg.sha512",
+    "C:\\Users\\mipma\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\mipma\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\mipma\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\mipma\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\mipma\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\mipma\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\mipma\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
